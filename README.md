@@ -3,6 +3,8 @@ Genomic Bioinformatics Graduate Student, <br>
 Graduate School of Public Health, <br> 
 University of Pittsburgh <br> 
 
+I am able to: <br>
+
 _ Use R & R-packages, Unix, SQL, PLINK and other softwares to manipulate genomic data <br> 
 _ Implement the necessary elements of genotype quality control pipeline, RNA-Seq pipeline, genome-wide associate study, genome-wide association meta-analysis, and next-generation whole-genome sequencing analysis pipeline <br> 
 _ Evaluate the qualitative and quantitative output from such pipelines <br> 
