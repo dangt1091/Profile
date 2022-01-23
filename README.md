@@ -1,6 +1,6 @@
-TRANG LE THAO DANG
-Genomic Bioinformatics Graduate Student,
-Graduate School of Public Health,
+TRANG LE THAO DANG /n
+Genomic Bioinformatics Graduate Student, n/
+Graduate School of Public Health, n/
 University of Pittsburgh
 
 _ Use R & R-packages, Unix, SQL, PLINK and other softwares to manipulate genomic data
