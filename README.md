@@ -2,6 +2,8 @@ TRANG LE THAO DANG <br>
 Genomic Bioinformatics Graduate Student, <br> 
 Graduate School of Public Health, <br> 
 University of Pittsburgh <br> 
+My LinkedIn: <br>
+www.linkedin.com/in/trangdangxm <br>
 
 I am able to: <br>
 
