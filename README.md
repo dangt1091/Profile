@@ -4,6 +4,8 @@ Graduate School of Public Health, <br>
 University of Pittsburgh <br> 
 My LinkedIn: <br>
 www.linkedin.com/in/trangdangxm <br>
+Email: <br>
+tld75@pitt.edu <br>
 
 I am able to: <br>
 
